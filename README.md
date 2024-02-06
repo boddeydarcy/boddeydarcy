@@ -1,4 +1,4 @@
-# Hello There 👋:
+# Hello There 👋
 👨‍🎓 I am Darcy Boddey, a first year student pursuing his degree in Software Engineering<br>at the University of Leicester.<br><br>👨‍💻 I enjoy coding on JetBrains products as their IDE's enhance my enjoyment of coding<br>whilst using their softwares.<br><br>🏋️‍♂️ Outside of my studies I spend my free time working out alongside playing sports, <br> this is a great boost to my mental and physical health. As well as playing sports, I love <br> to watch Football and Formula 1.<br><br>🎥 I would love to start creating content on my Software Engineering journey as it I have <br>always been passionate about expressing myself through creative videography.<br><br>🛫 My first language is English however, I am picking up Spanish in order to be able to<br>communicate with a broader group of people.
 
 
